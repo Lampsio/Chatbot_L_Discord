@@ -22,3 +22,5 @@ Chatbot L is an advanced conversational AI inspired by the character L from the 
 - Python 3.8 or higher
 - MongoDB instance
 - Discord bot token
+
+<img src="chatbot.PNG" alt="JavaPaint Screenshot">
