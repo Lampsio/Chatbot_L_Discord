@@ -18,7 +18,7 @@ from datetime import datetime
 
 
 # Twój token bota
-TOKEN = 'MTI4NTk4MjI0OTY5MDMzNzQxNQ.GEjjLN.1iK_7LngQFesSFq_jTv8OGPK9Y0K2WhQvgm-hk'
+TOKEN = ''
 
 intents = discord.Intents.default()
 intents.message_content = True  # Pozwól botowi odbierać treść wiadomości
